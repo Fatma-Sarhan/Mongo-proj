@@ -1,0 +1,13 @@
+/*.table-hover > tbody > tr:hover {
+  background-color: red;
+}
+thead > tr > th {
+    background-color: green;
+}*/
+.container{
+    background-color:yellow;
+}
+.title_box{
+
+	width:500px;
+}
